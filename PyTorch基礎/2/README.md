@@ -1,0 +1,1 @@
+Udemyの講座である【Hands Onで学ぶ】PyTorchによる深層学習入門を学んだ際の成果物

@@ -1,0 +1,1 @@
+Udemyの講座である【PyTorch+Colab】PyTorchで実装するディープラーニング -CNN、RNN、人工知能Webアプリの構築-を学習した際の成果物
